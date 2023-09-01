@@ -8,4 +8,5 @@ This is Yue Lin (or 林越, in Chinese), and welcome to my GitHub profile. To ge
 
 And feel free to comment on my repositories and blogs. Feedback is always welcome :)
 
-<img src="./imgs/cat2.png" style="zoom:40%;" />
+<p align="center">   <img src="./imgs/cat2.png" width="40%"> </p>
+
