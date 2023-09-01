@@ -8,4 +8,4 @@ This is Yue Lin (or 林越, in Chinese), and welcome to my GitHub profile. To ge
 
 And feel free to comment on my repositories and blogs. Feedback is always welcome :)
 
-![moon](./moon.jpg)
+<img src="./imgs/cat2.png" style="zoom:40%;" />
