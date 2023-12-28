@@ -9,7 +9,11 @@ This is Yue Lin (or 林越, in Chinese), and welcome to my GitHub profile. To ge
 
 And feel free to comment on my repositories and blogs. Feedback is always welcome :)
 
-> “我想要翻过山峰，在乌托邦里穿梭；没有人能打扰我，造一座我的王国。” —— 《放空》
+> “我想要翻过山峰，在乌托邦里穿梭；没有人能打扰我，造一座我的王国。”
 
-<!-- <p align="center">   <img src="./imgs/cat2.png" width="30%"> </p> -->
+<p align="center">
+  <img src="./imgs/2023_homepage_view.jpg" width="60%">
+  <br>
+  <span>2023 Personal Homepage Traffic Overview</span>
+</p>
 
